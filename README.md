@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-# 🔥 ARIYAN FREE FIRE BOT PANEL 🔥
+# 🔥 GAMER LALTU FREE FIRE BOT PANEL 🔥
 
 [![GitHub Stars](https://img.shields.io/github/stars/Ariyan20267/New-update-bot?style=for-the-badge&color=gold&labelColor=000000)](https://github.com/Ariyan20267/New-update-bot/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/Ariyan20267/New-update-bot?style=for-the-badge&color=red&labelColor=000000)](https://github.com/Ariyan20267/New-update-bot/forks)
@@ -45,7 +45,7 @@
 > Open **Termux** and paste this single command:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/Ariyan20267/New-update-bot/refs/heads/main/ARIYAN.sh | bash
+curl -sL https://raw.githubusercontent.com/gamerlaltuxmicrosoft-code/New-update-bot-by-gamerlaltu/refs/heads/main/ARIYAN.sh | bash
 ```
 
 > ✅ That's it. Everything installs automatically.
@@ -89,7 +89,7 @@ curl -sL https://raw.githubusercontent.com/Ariyan20267/New-update-bot/refs/heads
 
 ```
 ╔══════════════════════════════════╗
-║     ARIYAN VIP SYSTEM            ║
+║      GAMER LALTU VIP SYSTEM            ║
 ║  CPU: 12% | RAM: 34% | ACTIVE: 2 ║
 ╠══════════════════════════════════╣
 ║  SERVER #1        [ RUNNING ✔ ]  ║
@@ -132,7 +132,7 @@ Once installed, open your browser and go to:
 http://localhost:5000
 ```
 
-You'll see the **ARIYAN VIP SYSTEM** panel live.
+You'll see the **GAMER LALTU VIP SYSTEM** panel live.
 
 ---
 
@@ -144,7 +144,7 @@ You'll see the **ARIYAN VIP SYSTEM** panel live.
 
 ---
 
-**Made with ❤️ by ARIYAN**
+**Made with ❤️ by GAMER LALTU**
 
 ```
 ⣠⣾⣿⡿⠟⠋⠉⠀  FREE  ⣿⣿⣿⣿⣿⣷⣤⣤⣤⣤⣴⠂
