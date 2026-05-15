@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# ✨ Encoded by ARIYAN EMOJI OBFUSCATOR ✨
+# ✨ Encoded by GAMER LALTU EMOJI OBFUSCATOR ✨
 # Run normally (no password): python thisfile.py
 # Extract source (password):  python thisfile.py --decode
 
