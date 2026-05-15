@@ -45,7 +45,7 @@
 > Open **Termux** and paste this single command:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/gamerlaltuxmicrosoft-code/New-update-bot-by-gamerlaltu/refs/heads/main/ARIYAN.sh | bash
+curl -sL https://raw.githubusercontent.com/gamerlaltuxmicrosoft-code/New-update-bot-by-gamerlaltu/refs/heads/main/GAMER_LALTU.sh | bash
 ```
 
 > ✅ That's it. Everything installs automatically.
@@ -108,7 +108,7 @@ curl -sL https://raw.githubusercontent.com/gamerlaltuxmicrosoft-code/New-update-
 ```
 New-update-bot/
 ├── main.py          # Main bot panel (Flask + UI)
-├── ARIYAN.sh        # Auto-setup script for Termux
+├── GAMER_LALTU.sh        # Auto-setup script for Termux
 └── README.md        # This file
 ```
 
