@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # ============================================================
-#         ARIYAN FREE FIRE - TERMUX AUTO SETUP
+#         GAMER LALTU FREE FIRE - TERMUX AUTO SETUP
 # ============================================================
 
 RESET="\033[0m"
@@ -305,7 +305,7 @@ rgb_progress_box() {
 # ══════════════════ বক্স আঁকা শুরু ══════════════════
 clear
 box_top
-box_center "⚡  A R I Y A N  B O T  ⚡" "$YELLOW"
+box_center "⚡  G A M E R  L A L T U  B O T  ⚡" "$YELLOW"
 box_center "━━━━━━━━━━━━━━━━━━━━━━━━━━" "$YELLOW"
 box_line
 
